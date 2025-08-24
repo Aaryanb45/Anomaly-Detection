@@ -25,9 +25,12 @@ Docker for containerization
 
 ## Installation & Usage
 
-Step1: Clone the Repository
+### Step1: Clone Repository
+```bash
 git clone https://github.com/your-username/anomaly-detection-dashboard.git
 cd anomaly-detection-dashboard
+
+```
 
 Step 2:Build the Docker Container
 <pre> <code>docker build -t anomaly-dashboard .<pre> </pre>code>
