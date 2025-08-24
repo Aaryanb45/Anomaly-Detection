@@ -1,4 +1,4 @@
-#Anomaly Detection Dashboard
+Anomaly Detection Dashboard
 
 ##Project Overview
 The Anomaly Detection Dashboard is an interactive web application built with Streamlit, enabling real-time detection and visualization of anomalies in time-series data.
