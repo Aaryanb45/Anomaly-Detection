@@ -32,15 +32,15 @@ cd anomaly-detection-dashboard
 
 ```
 
-Step 2:Build the Docker Container
+### Step 2:Build the Docker Container
 <pre> <code>docker build -t anomaly-dashboard .</code> </pre>
 
-Step3: Run the Container on a Port
-docker run -p 8504:8504 anomaly-dashboard
+### Step3: Run the Container on a Port
+<pre> <code> docker run -p 8504:8504 anomaly-dashboard </code> </pre>
 
-Step4: Access the Application
+### Step4: Access the Application
 Open the URL in your browser:
-http://0.0.0.0:8504
+<pre> <code> http://0.0.0.0:8504</code> </pre>
 
 Project Structure
 anomaly-detection-dashboard/
