@@ -45,6 +45,7 @@ Open the URL in your browser:
 ### Project Structure
 
 anomaly-detection-dashboard/
+<pre> <code>
 │-- anomaly_pipeline.py        # Main pipeline for anomaly detection
 │-- app/
 │   └── dashboard.py           # Streamlit app for visualization
@@ -52,6 +53,7 @@ anomaly-detection-dashboard/
 │-- requirements.txt           # Python dependencies
 │-- timeseriesdata.csv         # Input dataset
 │-- output.csv                 # Generated output with anomalies
+</code></pre>
 
 
 ##Visualizations
