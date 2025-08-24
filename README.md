@@ -42,7 +42,8 @@ cd anomaly-detection-dashboard
 Open the URL in your browser:
 <pre> <code> http://0.0.0.0:8504</code> </pre>
 
-Project Structure
+### Project Structure
+
 anomaly-detection-dashboard/
 │-- anomaly_pipeline.py        # Main pipeline for anomaly detection
 │-- app/
@@ -53,12 +54,15 @@ anomaly-detection-dashboard/
 │-- output.csv                 # Generated output with anomalies
 
 
-Visualizations
-Anomaly Scores Over Time
+##Visualizations
+
+## Anomaly Scores Over Time
 Shows abnormality scores vs. time with anomaly highlights.
-Model-wise Scores
+
+## Model-wise Scores
 Raw anomaly scores from each model (IF, PCA, SVM).
-Top Features Copies
+## Top Features Copies
 Top 7 features with highest variance for anomaly detection.
-Detected Anomalies
+
+## Detected Anomalies
 Tabular view of all detected anomalies above threshold.
