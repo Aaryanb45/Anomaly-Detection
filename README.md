@@ -44,8 +44,9 @@ Open the URL in your browser:
 
 ### Project Structure
 
-anomaly-detection-dashboard/
+
 <pre> <code>
+anomaly-detection-dashboard/
 │-- anomaly_pipeline.py        # Main pipeline for anomaly detection
 │-- app/
 │   └── dashboard.py           # Streamlit app for visualization
