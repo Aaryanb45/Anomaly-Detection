@@ -27,7 +27,7 @@ Docker for containerization
 
 ### Step1: Clone Repository
 ```bash
-git clone https://github.com/your-username/anomaly-detection-dashboard.git
+git clone https://github.com/Aaryanb45/anomaly-detection-dashboard.git
 cd anomaly-detection-dashboard
 
 ```
