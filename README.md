@@ -33,7 +33,7 @@ cd anomaly-detection-dashboard
 ```
 
 Step 2:Build the Docker Container
-<pre> <code>docker build -t anomaly-dashboard .<pre> </pre>code>
+<pre> <code>docker build -t anomaly-dashboard .</code> </pre>
 
 Step3: Run the Container on a Port
 docker run -p 8504:8504 anomaly-dashboard
