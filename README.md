@@ -1,6 +1,6 @@
 ## Anomaly Detection Dashboard
 
-##Project Overview
+## Project Overview
 The Anomaly Detection Dashboard is an interactive web application built with Streamlit, enabling real-time detection and visualization of anomalies in time-series data.
 It leverages Isolation Forest, PCA Reconstruction Error, and One-Class SVM to identify abnormal patterns efficiently and display results with dynamic visualizations.
 
